@@ -1,0 +1,28 @@
+\contentsline {section}{\numberline {1}کتابخانهٔ دیجیتال}{3}
+\contentsline {section}{\numberline {2}تعداد عنوان کتابِ چاپ‌شده در سال در ایران}{3}
+\contentsline {section}{\numberline {3}تعریف طرح}{4}
+\contentsline {subsection}{\numberline {3\beginR .\endR 1}ویژگی‌هایِ موردِ نظر}{4}
+\contentsline {subsection}{\numberline {3\beginR .\endR 2}طراحی و توسعهٔ کارسازِ کتاب}{6}
+\contentsline {section}{\numberline {4}بررسیِ کتابخانه‌هایِ دیجیتالی}{6}
+\contentsline {section}{\numberline {5}طرحِ کسب-و-کار}{8}
+\contentsline {subsection}{\numberline {5\beginR .\endR 1}بررسیِ نیازِ بازار}{8}
+\contentsline {subsection}{\numberline {5\beginR .\endR 2}راهِ حل‌ها}{8}
+\contentsline {subsubsection}{\numberline {5\beginR .\endR 2\beginR .\endR 1}تولیدِ محصول بر اساسِ نیاز مشتری}{8}
+\contentsline {subsubsection}{\numberline {5\beginR .\endR 2\beginR .\endR 2}تولیدِ محصول بر اساسِ نیازِ کاربر}{9}
+\contentsline {subsubsection}{\numberline {5\beginR .\endR 2\beginR .\endR 3}ارائهٔ خدمات به جایِ ارائهٔ محصول}{9}
+\contentsline {section}{\numberline {6}مراحلِ زمانیِ اجرایِ طرح}{9}
+\contentsline {section}{\numberline {7}ضرورتِ استفاده از استانداردِ ای‌پاب}{9}
+\contentsline {subsection}{\numberline {7\beginR .\endR 1}ویژگی‌هایِ استاندارد ای‌پاب}{10}
+\contentsline {section}{\numberline {8}ضرورتِ استفاده از اُ‌دی‌پی‌اس}{10}
+\contentsline {subsection}{\numberline {8\beginR .\endR 1}خوانندگان چه می‌خواهند؟}{10}
+\contentsline {subsection}{\numberline {8\beginR .\endR 2}توزیع‌کننده‌هایِ کتاب (ناشران، کتابخانه‌ها، کتابفروشی‌ها) چه می‌خواهند؟}{11}
+\contentsline {subsection}{\numberline {8\beginR .\endR 3}نمایِ وبیِ ارتباطِ بینِ کاربران و کتابخانه‌ها بر رویِ وب}{11}
+\contentsline {subsection}{\numberline {8\beginR .\endR 4}نمایِ کارسازِ کتاب}{11}
+\contentsline {subsection}{\numberline {8\beginR .\endR 5}کارسازِ کتاب در عمل}{11}
+\contentsline {subsection}{\numberline {8\beginR .\endR 6}انرژیِ اتمی}{12}
+\contentsline {subsection}{\numberline {8\beginR .\endR 7}خوراک‌هایِ ناوبری و خوراک‌هایِ دستیابی}{12}
+\contentsline {subsection}{\numberline {8\beginR .\endR 8}نشریات و پیوندهایِ کاتالوگ}{12}
+\contentsline {subsection}{\numberline {8\beginR .\endR 9}تحویلِ محتوا}{13}
+\contentsline {subsection}{\numberline {8\beginR .\endR 10}توزیعِ متحوا}{13}
+\contentsline {subsection}{\numberline {8\beginR .\endR 11}کاتالوگ از طریقِ ای‌پی‌آی}{13}
+\contentsline {subsection}{\numberline {8\beginR .\endR 12}قفسه‌کتاب‌ها}{13}
