@@ -1,20 +1,23 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian) (format=xelatex 2012.2.19)  27 FEB 2012 08:49
+This is XeTeX, Version 3.1415926-2.2-0.9997.4 (TeX Live 2010) (format=xelatex 2011.2.13)  27 FEB 2012 23:31
 entering extended mode
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **introduction.tex
 (./introduction.tex
 LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
-ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
-9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
-skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
-orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
-, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
-rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
-(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, arabic, armenian
+, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutch, u
+kenglish, usenglishmax, esperanto, estonian, farsi, finnish, french, galician, 
+german, ngerman, swissgerman, monogreek, greek, hungarian, icelandic, assamese,
+ bengali, gujarati, hindi, kannada, malayalam, marathi, oriya, panjabi, tamil, 
+telugu, indonesian, interlingua, irish, italian, kurmanji, lao, latin, latvian,
+ lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, polish, portuguese, roma
+nian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turkish,
+ turkmen, ukrainian, uppersorbian, welsh, loaded.
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -29,238 +32,482 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/etc/texmf/tex/latex/config/graphics.cfg
-File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: xetex.def on input line 91.
 
-(/usr/share/texmf-texlive/tex/xelatex/xetex-def/xetex.def
+(/usr/local/texlive/2010/texmf-dist/tex/xelatex/xetex-def/xetex.def
 File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
 
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(/usr/share/texmf-texlive/tex/xelatex/xepersian/xepersian.sty
-Package: xepersian 2009/08/09 v1.0.3 <revision 93> Persian typesetting in XeLaT
-eX
+(/usr/local/texlive/2010/texmf-dist/tex/xelatex/xepersian/xepersian.sty
+Package: xepersian 2010/07/25 v1.0.9 <commit 23> Persian typesetting in XeLaTeX
 
-(/usr/share/texmf-texlive/tex/xelatex/bidi/bidi.sty
-Package: bidi 2009/08/09 v1.0.3 <revision 82> Bidirectional typesetting in XeLa
-TeX
 
-(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2000/07/18 v2.13 AMS math features
-\@mathmargin=\skip43
+(/usr/local/texlive/2010/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2010/07/14 v2.0b Advanced font selection for XeLaTeX/LuaLaTeX
 
-For additional information on amsmath, use the `?' option.
-(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01
 
-(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks15
-\ex@=\dimen105
-))
-(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen106
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/expl3.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3names.sty
+Package: l3names 2010/07/11 v1981 L3 Experimental Naming Scheme for TeX Primiti
+ves
 )
-(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
-)
-\inf@bad=\count88
-LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count89
-\leftroot@=\count90
-LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count91
-\DOTSCASE@=\count92
-LaTeX Info: Redefining \ldots on input line 379.
-LaTeX Info: Redefining \dots on input line 382.
-LaTeX Info: Redefining \cdots on input line 467.
-\Mathstrutbox@=\box26
-\strutbox@=\box27
-\big@size=\dimen107
-LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count93
-\c@MaxMatrixCols=\count94
-\dotsspace@=\muskip10
-\c@parentequation=\count95
-\dspbrk@lvl=\count96
-\tag@help=\toks16
-\row@=\count97
-\column@=\count98
-\maxfields@=\count99
-\andhelp@=\toks17
-\eqnshift@=\dimen108
-\alignsep@=\dimen109
-\tagshift@=\dimen110
-\tagwidth@=\dimen111
-\totwidth@=\dimen112
-\lineht@=\dimen113
-\@envbody=\toks18
-\multlinegap=\skip44
-\multlinetaggap=\skip45
-\mathdisplay@stack=\toks19
-LaTeX Info: Redefining \[ on input line 2666.
-LaTeX Info: Redefining \] on input line 2667.
-)
-\n@everypar=\toks20
+Package: expl3 2010/07/13 v1982 L3 Experimental code bundle wrapper
 
-(/usr/share/texmf-texlive/tex/xelatex/bidi/footnote-bidi.def)
-(/usr/share/texmf-texlive/tex/xelatex/bidi/graphicx-bidi.def)
-(/usr/share/texmf-texlive/tex/xelatex/bidi/article-bidi.def))
-(/usr/share/texmf-texlive/tex/xelatex/fontspec/fontspec.sty
-Package: fontspec 2008/08/09 v1.18 Advanced font selection for XeLaTeX
-
-(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+(/usr/local/texlive/2010/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count88
 )
-\c@zf@newff=\count100
-\c@zf@index=\count101
-\c@zf@script=\count102
-\c@zf@language=\count103
-
-(/usr/share/texmf-texlive/tex/latex/tools/calc.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3basics.sty
+Package: l3basics 2010/06/07 v1942 L3 Experimental basic definitions
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3expan.sty
+Package: l3expan 2010/06/10 v1948 L3 Experimental Argument Expansion module
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3tl.sty
+Package: l3tl 2010/05/22 v1919 L3 Experimental Token Lists
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3intexpr.sty
+Package: l3intexpr 2010/06/15 v1957 L3 Integer Expressions
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3quark.sty
+Package: l3quark 2010/03/21 v1853 L3 Experimental Quark Commands
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3seq.sty
+Package: l3seq 2010/03/29 v1879 L3 Experimental sequences and stacks
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3toks.sty
+Package: l3toks 2010/05/25 v1933 L3 Experimental Token Registers
+\l_tmpb_toks=\toks15
+\l_tmpc_toks=\toks16
+\g_tmpa_toks=\toks17
+\g_tmpb_toks=\toks18
+\g_tmpc_toks=\toks19
+\c_empty_toks=\toks20
+\l_tl_replace_toks=\toks21
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3int.sty
+Package: l3int 2010/05/25 v1933 L3 Experimental Integer module
+\l_tmpa_int=\count89
+\l_tmpb_int=\count90
+\l_tmpc_int=\count91
+\g_tmpa_int=\count92
+\g_tmpb_int=\count93
+\c_max_int=\count94
+\g_tl_inline_level_int=\count95
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3prg.sty
+Package: l3prg 2010/03/21 v1853 L3 Experimental control structures
+\g_prg_inline_level_int=\count96
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3clist.sty
+Package: l3clist 2010/03/29 v1878 L3 Experimental comma separated lists
+\g_clist_inline_level_int=\count97
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3token.sty
+Package: l3token 2010/04/11 v1890 L3 Experimental token investigation and manip
+ulation
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3prop.sty
+Package: l3prop 2010/03/21 v1857 L3 Experimental Property Lists
+\g_prop_inline_level_int=\count98
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3msg.sty
+Package: l3msg 2010/03/23 v1866 L3 Experimental LaTeX Messages module
+\l_msg_redirect_classes_prop=\toks22
+\l_msg_redirect_names_prop=\toks23
+\l_msg_redirect_fatal_prop=\toks24
+\l_msg_redirect_error_prop=\toks25
+\l_msg_redirect_warning_prop=\toks26
+\l_msg_redirect_info_prop=\toks27
+\l_msg_redirect_log_prop=\toks28
+\l_msg_redirect_trace_prop=\toks29
+\l_msg_redirect_none_prop=\toks30
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3io.sty
+Package: l3io 2010/05/22 v1923 L3 Experimental i/o module
+\g_iow_streams_prop=\toks31
+\g_ior_streams_prop=\toks32
+\l_iow_stream_int=\count99
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3skip.sty
+Package: l3skip 2010/05/25 v1933 L3 Experimental skip registers
+\l_tmpa_skip=\skip43
+\l_tmpb_skip=\skip44
+\l_tmpc_skip=\skip45
+\g_tmpa_skip=\skip46
+\g_tmpb_skip=\skip47
+\l_tmpa_dim=\dimen105
+\l_tmpb_dim=\dimen106
+\l_tmpc_dim=\dimen107
+\l_tmpd_dim=\dimen108
+\g_tmpa_dim=\dimen109
+\g_tmpb_dim=\dimen110
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3box.sty
+Package: l3box 2010/05/22 v1919 L3 Experimental Box module
+\l_tmpb_box=\box26
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3keyval.sty
+Package: l3keyval 2010/04/11 v1890 L3 Experimental keyval processing
+\l_KV_level_int=\count100
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3keys.sty
+Package: l3keys 2010/05/24 v1931 L3 Experimental key-value support
+\l_keys_choice_int=\count101
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3precom.sty
+Package: l3precom 2010/02/09 v1793 L3 Experimental precompilation module
+\g_gen_sym_int=\count102
+\g_ggen_sym_int=\count103
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3xref.sty
+Package: l3xref 2010/02/09 v1786 L3 Experimental cross referencing
+\g_xref_all_curr_immediate_fields_prop=\toks33
+\g_xref_all_curr_deferred_fields_prop=\toks34
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3file.sty
+Package: l3file 2010/03/21 v1853 L3 Experimental file loading
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/expl3/l3fp.sty
+Package: l3fp 2010/07/08 v1979 L3 Experimental floating-point operations
+\l_fp_input_a_integer_int=\count104
+\l_fp_input_a_decimal_int=\count105
+\l_fp_input_b_integer_int=\count106
+\l_fp_input_b_decimal_int=\count107
+\l_fp_input_a_sign_int=\count108
+\l_fp_input_b_sign_int=\count109
+\l_fp_split_sign_int=\count110
+\l_fp_mul_a_i_int=\count111
+\l_fp_mul_a_ii_int=\count112
+\l_fp_mul_a_iii_int=\count113
+\l_fp_mul_a_iv_int=\count114
+\l_fp_mul_a_v_int=\count115
+\l_fp_mul_a_vi_int=\count116
+\l_fp_mul_b_i_int=\count117
+\l_fp_mul_b_ii_int=\count118
+\l_fp_mul_b_iii_int=\count119
+\l_fp_mul_b_iv_int=\count120
+\l_fp_mul_b_v_int=\count121
+\l_fp_mul_b_vi_int=\count122
+\l_fp_mul_output_int=\count123
+\l_fp_div_count_int=\count124
+\l_fp_div_offset_int=\count125
+\l_fp_output_sign_int=\count126
+\l_fp_output_integer_int=\count127
+\l_fp_output_decimal_int=\count128
+\l_fp_round_discard_int=\count129
+\l_fp_round_position_int=\count130
+\l_fp_tmp_int=\count131
+\c_one_hundred_million=\count132
+\c_one_thousand_million=\count133
+\l_fp_tmp_dim=\dimen111
+\l_fp_round_precision_int=\count134
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count104
-\calc@Bcount=\count105
-\calc@Adimen=\dimen114
-\calc@Bdimen=\dimen115
-\calc@Askip=\skip46
-\calc@Bskip=\skip47
+\calc@Acount=\count135
+\calc@Bcount=\count136
+\calc@Adimen=\dimen112
+\calc@Bdimen=\dimen113
+\calc@Askip=\skip48
+\calc@Bskip=\skip49
 LaTeX Info: Redefining \setlength on input line 76.
 LaTeX Info: Redefining \addtolength on input line 77.
-\calc@Ccount=\count106
-\calc@Cskip=\skip48
+\calc@Ccount=\count137
+\calc@Cskip=\skip50
+))
+(/usr/local/texlive/2010/texmf-dist/tex/latex/xpackages/xbase/xparse.sty
+Package: xparse 2010/05/23 v1927 Generic document command parser
+\c_xparse_shorthands_prop=\toks35
+\l_xparse_m_args_int=\count138
+\l_xparse_mandatory_args_int=\count139
+\l_xparse_processor_int=\count140
+\l_xparse_total_args_int=\count141
 )
-(/usr/share/texmf-texlive/tex/latex/xkeyval/xkeyval.sty
+(/usr/local/texlive/2010/texmf-dist/tex/generic/kastrup/binhex.tex)
+\c@zf@newff=\count142
+\c@zf@index=\count143
+\c@zf@script=\count144
+\c@zf@language=\count145
+\l_fontspec_strnum_int=\count146
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
 
-(/usr/share/texmf-texlive/tex/generic/xkeyval/xkeyval.tex
-\XKV@toks=\toks21
-\XKV@tempa@toks=\toks22
-\XKV@depth=\count107
+(/usr/local/texlive/2010/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks36
+\XKV@tempa@toks=\toks37
+\XKV@depth=\count147
 File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
 ))
-(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/fontspec/fontspec-patches.sty
+Package: fontspec-patches 2010/07/14 v2.0b Advanced font selection for XeLaTeX/
+LuaLaTeX
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
+LaTeX Info: Redefining \em on input line 420.
+)
+LaTeX Info: Redefining \em on input line 23.
+LaTeX Info: Redefining \emph on input line 27.
+LaTeX Info: Redefining \- on input line 30.
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/share/texmf-texlive/tex/xelatex/euenc/eu1enc.def
-File: eu1enc.def 2008/03/08 v0.1d Experimental unicode font encoding
+(/usr/local/texlive/2010/texmf-dist/tex/latex/euenc/eu1enc.def
+File: eu1enc.def 2010/05/27 v0.1g Experimental Unicode font encodings
 )
 LaTeX Font Info:    Try loading font information for EU1+lmr on input line 100.
 
 
-(/usr/share/texmf-texlive/tex/xelatex/euenc/eu1lmr.fd
-File: eu1lmr.fd 2007/01/14 v1.3 Font defs for Latin Modern
+(/usr/local/texlive/2010/texmf-dist/tex/latex/euenc/eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ))
-LaTeX Info: Redefining \itshape on input line 1163.
-LaTeX Info: Redefining \slshape on input line 1166.
-LaTeX Info: Redefining \scshape on input line 1169.
-LaTeX Info: Redefining \upshape on input line 1172.
+ LaTeX Info: Defining document command \fontspec
+(LaTeX)  with arg. spec. 'O{}m' on line 264.
+
+ LaTeX Info: Defining document command \setmainfont
+(LaTeX)  with arg. spec. 'O{}m' on line 268.
+
+ LaTeX Info: Defining document command \setsansfont
+(LaTeX)  with arg. spec. 'O{}m' on line 272.
+
+ LaTeX Info: Defining document command \setmonofont
+(LaTeX)  with arg. spec. 'O{}m' on line 276.
+
+ LaTeX Info: Defining document command \setmathrm
+(LaTeX)  with arg. spec. 'O{}m' on line 280.
+
+ LaTeX Info: Defining document command \setboldmathrm
+(LaTeX)  with arg. spec. 'O{}m' on line 283.
+
+ LaTeX Info: Defining document command \setmathsf
+(LaTeX)  with arg. spec. 'O{}m' on line 286.
+
+ LaTeX Info: Defining document command \setmathtt
+(LaTeX)  with arg. spec. 'O{}m' on line 289.
+
+ LaTeX Info: Defining document command \newfontfamily
+(LaTeX)  with arg. spec. 'mO{}m' on line 304.
+
+ LaTeX Info: Defining document command \newfontface
+(LaTeX)  with arg. spec. 'mO{}m' on line 307.
+
+ LaTeX Info: Defining document command \defaultfontfeatures
+(LaTeX)  with arg. spec. 'm' on line 308.
+
+ LaTeX Info: Defining document command \addfontfeatures
+(LaTeX)  with arg. spec. 'm' on line 325.
+
+ LaTeX Info: Defining document command \newfontfeature
+(LaTeX)  with arg. spec. 'mm' on line 334.
+
+ LaTeX Info: Defining document command \newAATfeature
+(LaTeX)  with arg. spec. 'mmmm' on line 343.
+
+ LaTeX Info: Defining document command \newICUfeature
+(LaTeX)  with arg. spec. 'mmm' on line 352.
+
+ LaTeX Info: Defining document command \aliasfontfeature
+(LaTeX)  with arg. spec. 'mm' on line 354.
+
+ LaTeX Info: Defining document command \aliasfontfeatureoption
+(LaTeX)  with arg. spec. 'mmm' on line 357.
+
+ LaTeX Info: Defining document command \newfontscript
+(LaTeX)  with arg. spec. 'mm' on line 362.
+
+ LaTeX Info: Defining document command \newfontlanguage
+(LaTeX)  with arg. spec. 'mm' on line 379.
+
+ LaTeX Info: Defining document command \DeclareFontsExtensions
+(LaTeX)  with arg. spec. 'm' on line 395.
+
+\c@fontspec_tmp_int=\count148
+LaTeX Info: Redefining \itshape on input line 1903.
+LaTeX Info: Redefining \slshape on input line 1907.
+LaTeX Info: Redefining \scshape on input line 1911.
+LaTeX Info: Redefining \upshape on input line 1915.
 
 fontspec.cfg loaded.
-(/usr/share/texmf-texlive/tex/xelatex/fontspec/fontspec.cfg))
-(/usr/share/texmf-texlive/tex/xelatex/xepersian/xepersian-persiancal.sty
-Package: xepersian-persiancal 
-\XePersian@i=\count108
-\XePersian@y=\count109
-\XePersian@m=\count110
-\XePersian@d=\count111
-\XePersian@latini=\count112
-\XePersian@persiani=\count113
-\XePersian@latinii=\count114
-\XePersian@persianii=\count115
-\XePersian@latiniii=\count116
-\XePersian@persianiii=\count117
-\XePersian@latiniv=\count118
-\XePersian@persianiv=\count119
-\XePersian@latinv=\count120
-\XePersian@persianv=\count121
-\XePersian@latinvi=\count122
-\XePersian@persianvi=\count123
-\XePersian@latinvii=\count124
-\XePersian@persianvii=\count125
-\XePersian@latinviii=\count126
-\XePersian@persianviii=\count127
-\XePersian@latinix=\count128
-\XePersian@persianix=\count129
-\XePersian@latinx=\count130
-\XePersian@persianx=\count131
-\XePersian@latinxi=\count132
-\XePersian@persianxi=\count133
-\XePersian@latinxii=\count134
-\XePersian@persianxii=\count135
-\XePersian@persianxiii=\count136
-\XePersian@temp=\count137
-\XePersian@temptwo=\count138
-\XePersian@tempthree=\count139
-\XePersian@yModHundred=\count140
-\XePersian@thirtytwo=\count141
-\XePersian@dn=\count142
-\XePersian@sn=\count143
-\XePersian@mminusone=\count144
+(/usr/local/texlive/2010/texmf-dist/tex/latex/fontspec/fontspec.cfg))
+(/usr/local/texlive/2010/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.
+sty
+Package: xepersian-persiancal 2010/07/25 v0.1 provides Persian calendar
+\XePersian@i=\count149
+\XePersian@y=\count150
+\XePersian@m=\count151
+\XePersian@d=\count152
+\XePersian@latini=\count153
+\XePersian@persiani=\count154
+\XePersian@latinii=\count155
+\XePersian@persianii=\count156
+\XePersian@latiniii=\count157
+\XePersian@persianiii=\count158
+\XePersian@latiniv=\count159
+\XePersian@persianiv=\count160
+\XePersian@latinv=\count161
+\XePersian@persianv=\count162
+\XePersian@latinvi=\count163
+\XePersian@persianvi=\count164
+\XePersian@latinvii=\count165
+\XePersian@persianvii=\count166
+\XePersian@latinviii=\count167
+\XePersian@persianviii=\count168
+\XePersian@latinix=\count169
+\XePersian@persianix=\count170
+\XePersian@latinx=\count171
+\XePersian@persianx=\count172
+\XePersian@latinxi=\count173
+\XePersian@persianxi=\count174
+\XePersian@latinxii=\count175
+\XePersian@persianxii=\count176
+\XePersian@persianxiii=\count177
+\XePersian@temp=\count178
+\XePersian@temptwo=\count179
+\XePersian@tempthree=\count180
+\XePersian@yModHundred=\count181
+\XePersian@thirtytwo=\count182
+\XePersian@dn=\count183
+\XePersian@sn=\count184
+\XePersian@mminusone=\count185
 )
-(/usr/share/texmf-texlive/tex/xelatex/xepersian/xepersian-mathsdigitspec.sty
-Package: xepersian-mathsdigitspec 2009/04/22 v1.0.1 Unicode Persian maths digit
-s in XeLaTeX (Author: Vafa Khalighi)
+(/usr/local/texlive/2010/texmf-dist/tex/xelatex/xepersian/xepersian-mathsdigits
+pec.sty
+Package: xepersian-mathsdigitspec 2010/07/25 v0.6 Unicode Persian maths digits 
+in XeLaTeX
+) (/usr/local/texlive/2010/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2010/04/10 v1.9 e-TeX tools for LaTeX
+\etb@tempcnta=\count186
 )
-(/usr/share/texmf-texlive/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2009/08/06 v1.8 e-TeX tools for LaTeX
+(/usr/local/texlive/2010/texmf-dist/tex/latex/bidi/bidi.sty
+Package: bidi 2010/07/25 v1.1.4a <commit 77> Bidirectional typesetting in plain
+ TeX and LaTeX
 
-(/usr/share/texmf-texlive/tex/latex/etex-pkg/etex.sty
-Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count145
+bidi package (Support for bidirectional typesetting in plain TeX and LaTeX)
+ Description: A convenient interface for typesetting bidirectional
+ texts in plain TeX and LaTeX. The package includes adaptations for use
+ with many other commonly-used packages.
+ Copyright © 2009-2010 Vafa Khalighi
+ v1.1.4a, <commit 77>, 2010/07/25
+ License: LaTeX Project Public License, version 1.3c or higher (your choice)
+ Home: http://bitbucket.org/vafa/bidi
+ Location on CTAN: /macros/latex/contrib/bidi
+(/usr/local/texlive/2010/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2010/07/25 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/bidi/loadingorder-bidi.def
+File: loadingorder-bidi.def 2010/07/25 v0.5 making sure that bidi is the last p
+ackage loaded
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/bidi/xetex-bidi.def
+File: xetex-bidi.def 2010/07/25 v0.7 bidi adaptations for XeTeX engine
+\n@everypar=\toks38
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/bidi/footnote-xetex-bidi.def
+File: footnote-xetex-bidi.def 2010/07/25 v0.5 bidi footnote macros for XeTeX en
+gine
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/bidi/article-xetex-bidi.def
+File: article-xetex-bidi.def 2010/07/25 v0.4 bidi adaptations for standard arti
+cle class for XeTeX engine
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/bidi/graphicx-xetex-bidi.def
+File: graphicx-xetex-bidi.def 2010/07/25 v0.3 bidi adaptations for graphicx pac
+kage for XeTeX engine
+)))
+xepersian package (Persian for LaTeX over XeTeX)
+ Description: The package supports Persian
+ typesetting, using fonts provided in the distribution.
+ Copyright © 2008-2010 Vafa Khalighi
+ v1.0.9, <commit 23>, 2010/07/25
+ License: LaTeX Project Public License, version 1.3c or higher (your choice)
+ Home: http://bitbucket.org/vafa/xepersian
+ Location on CTAN: /macros/xetex/latex/xepersian
+
+(/usr/local/texlive/2010/texmf-dist/tex/xelatex/xepersian/loadingorder-bidi-xep
+ersian.def
+File: loadingorder-bidi-xepersian.def 2010/07/25 v0.2 making sure that xepersia
+n is the last package loaded
+)
+(/usr/local/texlive/2010/texmf-dist/tex/xelatex/xepersian/footnote-bidi-xepersi
+an.def
+File: footnote-bidi-xepersian.def 2010/07/25 v0.2 footnote macros for xepersian
+ package
+)
+(/usr/local/texlive/2010/texmf-dist/tex/xelatex/xepersian/article-xepersian.def
+File: article-xepersian.def 2010/07/25 v0.2 adaptations for standard article cl
+ass
 ))
-(/usr/share/texmf-texlive/tex/xelatex/xepersian/footnote-bidi-xepersian.def)
-(/usr/share/texmf-texlive/tex/xelatex/xepersian/article-xepersian.def))
-\c@zf@famc@XB Zar=\count146
-Package fontspec Info: Defining font family for 'XB Zar' with options [Script=P
-ersian,Mapping=parsidigits,] on input line 7.
-\c@zf@famc@Linux Libertine=\count147
-Package fontspec Info: Defining font family for 'Linux Libertine' with options 
-[Mapping=tex-text,] on input line 8.
-\c@zf@famc@Parsi Digits=\count148
-Package fontspec Info: Defining font family for 'Parsi Digits' with options [] 
-on input line 9.
+\c@zf@famc@XB Zar=\count187
+ fontspec Info: Defining font family for 'XB Zar' with options [Script=Parsi,La
+nguage=Parsi,Mapping=parsidigits,].
+
+Package fontspec Info: Defining shape m/n with raw font features:
+(fontspec)             mapping=parsidigits;.
+Package fontspec Info: Defining shape bx/n with raw font features:
+(fontspec)             mapping=parsidigits;.
+Package fontspec Info: Defining shape m/it with raw font features:
+(fontspec)             mapping=parsidigits;.
+Package fontspec Info: Defining shape bx/it with raw font features:
+(fontspec)             mapping=parsidigits;.
+\c@zf@famc@Linux Libertine=\count188
+ fontspec Info: Defining font family for 'Linux Libertine' with options [Mappin
+g=tex-text,].
+
+Package fontspec Info: Defining shape m/n with raw font features:
+(fontspec)             mapping=tex-text;.
+Package fontspec Info: Defining shape m/sc with raw font features:
+(fontspec)             mapping=tex-text;.
+Package fontspec Info: Defining shape bx/n with raw font features:
+(fontspec)             mapping=tex-text;.
+Package fontspec Info: Defining shape bx/sc with raw font features:
+(fontspec)             mapping=tex-text;.
+Package fontspec Info: Defining shape m/it with raw font features:
+(fontspec)             mapping=tex-text;.
+Package fontspec Info: Defining shape m/si with raw font features:
+(fontspec)             mapping=tex-text;.
+Package fontspec Info: Defining shape bx/it with raw font features:
+(fontspec)             mapping=tex-text;.
+ fontspec Info: Font Parsi Digits does not contain any OpenType `Script' inform
+ation.
+
+\c@zf@famc@Parsi Digits=\count189
+ fontspec Info: Defining font family for 'Parsi Digits' with options [].
+
+Package fontspec Info: Defining shape m/n with raw font features:
+(fontspec)             .
+Package fontspec Info: Defining shape bx/n with raw font features:
+(fontspec)             .
+Package fontspec Info: Defining shape m/it with raw font features:
+(fontspec)             .
+Package fontspec Info: Defining shape bx/it with raw font features:
+(fontspec)             .
 Package xepersian-mathsdigitspec Info: Defining the default Persian maths digit
 s font as 'Parsi Digits' on input line 9.
 \symOPERATORS=\mathgroup4
-LaTeX Font Info:    Overwriting symbol font `OPERATORS' in version `bold'
-(Font)                  EU1/ParsiDigits(0)/m/n --> EU1/ParsiDigits(0)/bx/n on i
-nput line 9.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 9.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> EU1/ParsiDigits(0)/m/it on input line 
-9.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> EU1/ParsiDigits(0)/m/it on input line
- 9.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 9.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> EU1/ParsiDigits(0)/bx/n on input line 
-9.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> EU1/ParsiDigits(0)/bx/n on input line 
-9.
-
-(./introduction.aux)
+ (./introduction.aux)
 \openout1 = `introduction.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -277,56 +524,71 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 22.
+Package xepersian Info: “You have not specified any font for the digits in ma
+ths mode and so the digits in maths mode will appear Latin. If you would like t
+o have Persian digits in maths mode, then please specify a font for the digits 
+in maths mode by using \setdigitfont CS, and then try to run xelatex on your do
+cument again” on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
 
- (/usr/share/texmf-texlive/tex/xelatex/euenc/eu1lmtt.fd
-File: eu1lmtt.fd 2007/01/14 v1.3 Font defs for Latin Modern
-)
+
+LaTeX Warning: No \author given.
+
 [1
 
-] (./introduction.toc)
+] (./introduction.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+)
 \tf@toc=\write3
 \openout3 = `introduction.toc'.
 
  [2]
 
-LaTeX Warning: Citation `Doe:2009:Other' on page 3 undefined on input line 39.
+LaTeX Warning: Citation `Doe:2009:Other' on page 3 undefined on input line 32.
 
 
-LaTeX Warning: Citation `Doe:2009:Misc' on page 3 undefined on input line 39.
+LaTeX Warning: Citation `Doe:2009:Misc' on page 3 undefined on input line 32.
 
 
-LaTeX Warning: Citation `Doe:2009:Booklet' on page 3 undefined on input line 39
+LaTeX Warning: Citation `Doe:2009:Booklet' on page 3 undefined on input line 32
 .
 
 File: books-of-iran.png Graphic file (type QTm)
 <use  "books-of-iran.png" > [3]
-Overfull \hbox (0.33572pt too wide) in paragraph at lines 60--62
+Overfull \hbox (0.33572pt too wide) in paragraph at lines 53--55
 [][]\EU1/XBZar(0)/bx/n/10 پشتیبانی از فهرستِ مطالب[] \EU1/
 XBZar(0)/m/n/10 در صورتی که کتاب در سطوحِ مختلفی فه
 رست‌بندی و موضوع‌بندی[]
  []
 
 [4] [5] [6] [7] [8]
-Overfull \hbox (8.08037pt too wide) in paragraph at lines 157--162
+Overfull \hbox (8.08037pt too wide) in paragraph at lines 150--155
 []\EU1/XBZar(0)/m/n/10 استانداردِ مورد نظر ما برایِ پ�
 �اده‌سازیِ کتاب‌ها، ای‌پاب است. این استان�
 �ارد [] برایِ محتویاتِ بازجاری‌پذیر[]
  []
 
 
-Overfull \vbox (3.16641pt too high) has occurred while \output is active []
+Overfull \vbox (0.16641pt too high) has occurred while \output is active []
 
 
 [9]
-Overfull \hbox (21.36328pt too wide) in paragraph at lines 187--187
+Overfull \hbox (20.67188pt too wide) in paragraph at lines 180--180
 [][]\EU1/XBZar(0)/bx/n/12 توزیع‌کننده‌هایِ کتاب (ناشر
 ان، کتابخانه‌ها، کتابفروشی‌ها) چه می‌خوا�
 �ند؟ []
  []
 
 
-Overfull \hbox (1.52676pt too wide) in paragraph at lines 188--189
+Overfull \hbox (1.52676pt too wide) in paragraph at lines 181--182
 []\EU1/XBZar(0)/m/n/10 کتاب‌هایِ بسیاری با اطلاعاتِ �
 �وصیفیِ دقیقی، در هرجا که ممکن است، تحتِ شرا
 یطِ مجازِ فروش/استفاده[]
@@ -335,12 +597,12 @@ Overfull \hbox (1.52676pt too wide) in paragraph at lines 188--189
 [10]
 File: web-of-books.png Graphic file (type QTm)
  <use  "web-of-books.png" >
-Overfull \hbox (16.34912pt too wide) in paragraph at lines 190--191
-[][] []
+Overfull \hbox (16.34912pt too wide) in paragraph at lines 183--184
+[][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--197
+Underfull \hbox (badness 10000) in paragraph at lines 188--190
 [][]
  []
 
@@ -352,12 +614,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3966 strings out of 494665
- 68503 string characters out of 1166477
- 158554 words of memory out of 3000000
- 7105 multiletter control sequences out of 15000+50000
- 7760 words of font info for 60 fonts, out of 3000000 for 9000
+ 8576 strings out of 494542
+ 161017 string characters out of 3157455
+ 242234 words of memory out of 3000000
+ 11663 multiletter control sequences out of 15000+200000
+ 6624 words of font info for 54 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
- 41i,8n,61p,815b,300s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,8n,62p,808b,317s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on introduction.pdf (13 pages).
